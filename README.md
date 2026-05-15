@@ -9,7 +9,7 @@ Fundador da **VAETH** — óculos inteligentes com IA para pessoas com deficiên
 
 **[VAETH](https://vaeth.dev)** é uma startup brasileira desenvolvendo óculos assistivos com IA que descrevem o ambiente em tempo real, em português, sem depender de internet. O único produto equivalente disponível no Brasil custa R$17.000 e é importado. Estamos construindo a alternativa.
 
-→ [`vaeth-dev/vaeth`](https://github.com/vaethdev/vaeth) — repositório do projeto
+→ [`vaethdev/vaeth`](https://github.com/vaethdev/vaeth) — repositório do projeto
 
 ---
 
